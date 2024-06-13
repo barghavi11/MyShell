@@ -1,0 +1,14 @@
+a.out
+arraylist.c
+arraylist.h
+arraylist.o
+file.txt
+input.txt
+Makefile
+mysh
+mysh.c
+mysh.o
+out.txt
+README.txt
+test
+test.sh
